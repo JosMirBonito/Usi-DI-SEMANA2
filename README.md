@@ -118,7 +118,7 @@ docker --version
 **Paso 2 — obtener el proyecto.** Si está en GitHub:
 
 ```bash
-git clone https://github.com/USUARIO/dashboard-ventas-streamlit.git && cd dashboard-ventas-streamlit
+git clone https://github.com/JosMirBonito/Usi-DI-SEMANA2.git && cd Usi-DI-SEMANA2
 ```
 
 Si no, subir los archivos con el botón **Upload File** del editor de Killercoda (menú ☰ → *Upload File*) y crear la estructura:

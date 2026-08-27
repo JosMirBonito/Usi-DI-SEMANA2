@@ -38,7 +38,7 @@ Marcar en orden. Los bloques A y B ya están hechos; empieza en el C.
       `git add .`
       `git commit -m "Dashboard de ventas con Streamlit y Docker"`
       `git branch -M main`
-      `git remote add origin https://github.com/USUARIO/dashboard-ventas-streamlit.git`
+      `git remote add origin https://github.com/JosMirBonito/Usi-DI-SEMANA2.git`
       `git push -u origin main`
 - [ ] Confirmar en GitHub que subió `data/ventas_retail.csv` (1.6 MB, entra sin problema)
 
@@ -53,8 +53,8 @@ Marcar en orden. Los bloques A y B ya están hechos; empieza en el C.
 ## F. Llevar el proyecto al playground
 
 **Opción 1 — con GitHub (rápida):**
-- [ ] `git clone https://github.com/USUARIO/dashboard-ventas-streamlit.git`
-- [ ] `cd dashboard-ventas-streamlit`
+- [ ] `git clone https://github.com/JosMirBonito/Usi-DI-SEMANA2.git`
+- [ ] `cd Usi-DI-SEMANA2`
 - [ ] `ls -la` para confirmar que están `app.py`, `Dockerfile`, `data/` y `.streamlit/`
 
 **Opción 2 — subida manual:**
@@ -95,7 +95,7 @@ Marcar en orden. Los bloques A y B ya están hechos; empieza en el C.
 
 - [ ] Carpeta o ZIP con: `app.py`, `data/`, `requirements.txt`, `Dockerfile`, `.dockerignore`, `docker-compose.yml`, `.streamlit/`, `README.md`, `capturas/`
 - [ ] Incluir el enlace al repositorio de GitHub (si lo hiciste)
-- [ ] Releer el README y reemplazar `USUARIO` por tu usuario real de GitHub
+- [ ] Incluir el enlace del repo: https://github.com/JosMirBonito/Usi-DI-SEMANA2
 - [ ] Subir a la plataforma del curso
 
 ---
